@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.adamldavis</groupId>
   <artifactId>pathfinder</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>pathfinder</name>
   <description>Algorithms for finding paths in 2d grids.</description>
   <packaging>jar</packaging>
